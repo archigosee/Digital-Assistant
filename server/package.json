@@ -1,0 +1,11 @@
+{
+  "name": "selam-proxy",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Gemini proxy for the Selam Amharic voice assistant",
+  "type": "module",
+  "engines": { "node": "22.x" },
+  "scripts": {
+    "test": "node --test test/proxy.test.js"
+  }
+}
